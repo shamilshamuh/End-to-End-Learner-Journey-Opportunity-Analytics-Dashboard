@@ -51,9 +51,9 @@ This project was completed as part of my internship at Excelerate, where I worke
 - Mapping the full journey: Applicant → Cohort → Learner → Opportunity → Campaign
 
 # 📊 Dashboard
-- ![live link](https://lookerstudio.google.com/u/0/reporting/7e68fb59-e2e8-48b6-9956-4da084adcf39/page/aGRWF/edit)
+- ![live link](https://lookerstudio.google.com/u/0/reporting/7e68fb59-e2e8-48b6-9956-4da084adcf39/page)
 
-![Dashboard](https://lookerstudio.google.com/u/0/reporting/7e68fb59-e2e8-48b6-9956-4da084adcf39/page/aGRWF/edit)
+![Dashboard](https://github.com/shamilshamuh/End-to-End-Learner-Journey-Opportunity-Analytics-Dashboard/blob/main/global%20insights%20for%20leaners%20internship%201.jpg)
 
 # Dashboard Key Results
 Total Learners: 50.8K
