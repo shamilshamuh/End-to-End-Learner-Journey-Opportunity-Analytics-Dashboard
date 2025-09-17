@@ -28,10 +28,10 @@ This project was completed as part of my internship at Excelerate, where I worke
 
 - # Detailed Report
   
-1. EDA Report  [Weak 1](https://github.com/shamilshamuh/Amazon_data_analysis/blob/main/Amazon_Sales_EDA_Report.pdf)
-2. [Weak 2](https://github.com/shamilshamuh/Amazon_data_analysis/blob/main/Amazon_Sales_EDA_Report.pdf)
-3. [Weak 3](https://github.com/shamilshamuh/Amazon_data_analysis/blob/main/Amazon_Sales_EDA_Report.pdf)
-4. [Weak 1](https://github.com/shamilshamuh/Amazon_data_analysis/blob/main/Amazon_Sales_EDA_Report.pdf)
+1. EDA Report  [Weak 1](https://github.com/shamilshamuh/End-to-End-Learner-Journey-Opportunity-Analytics-Dashboard/blob/main/Weak%201%20EDA%20Report.pdf)
+2. Master Table & ETL Process[Weak 2](https://github.com/shamilshamuh/End-to-End-Learner-Journey-Opportunity-Analytics-Dashboard/blob/main/Weak%202%20Master%20Table%20%26%20ETL%20Process%20.pdf)
+3. [Weak 3](https://github.com/shamilshamuh/End-to-End-Learner-Journey-Opportunity-Analytics-Dashboard/blob/main/Weak3%20Mapping%20Table%20Creation%20and%20Wireframe.pdf)
+4. [Weak 1](https://github.com/shamilshamuh/End-to-End-Learner-Journey-Opportunity-Analytics-Dashboard/blob/main/Weak%204%20Data%20Visualization%26%20Story%20Telling%20Report%20.pdf)
 
 
 
@@ -51,8 +51,9 @@ This project was completed as part of my internship at Excelerate, where I worke
 - Mapping the full journey: Applicant → Cohort → Learner → Opportunity → Campaign
 
 # 📊 Dashboard
+- ![live link](https://lookerstudio.google.com/u/0/reporting/7e68fb59-e2e8-48b6-9956-4da084adcf39/page/aGRWF/edit)
 
-![Dashboard](https://github.com/shamilshamuh/Amazon_data_analysis/blob/main/Dashboard%201.png)
+![Dashboard](https://lookerstudio.google.com/u/0/reporting/7e68fb59-e2e8-48b6-9956-4da084adcf39/page/aGRWF/edit)
 
 # Dashboard Key Results
 Total Learners: 50.8K
