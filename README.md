@@ -19,7 +19,7 @@ This project was completed as part of my internship at Excelerate, where I worke
 # 🛠️ Tools & Technologies
 
 - SQL – Data querying and relationship mapping
-- 
+
 - Python (Pandas, NumPy) – Data cleaning and preprocessing
 
 - Excel / Power Query – Raw data inspection
