@@ -4,17 +4,17 @@
 This project was completed as part of my internship at Excelerate, where I worked as a Data Analyst Associate Intern. I prepared weekly reports and built an integrated dashboard using six interconnected datasets. The goal was to provide global insights into learner journeys, covering applicants, cohorts, opportunities, and marketing campaigns.
 # 🗂️ Datasets Used
 
-1. [User Data.csv](https://raw.githubusercontent.com/shamilshamuh/End-to-End-Learner-Journey-Opportunity-Analytics-Dashboard/refs/heads/main/User_data.csv) – Applicant demographics and university details
+1. [User Data.csv](https://github.com/shamilshamuh/End-to-End-Learner-Journey-Opportunity-Analytics-Dashboard/blob/main/User_data.csv) – Applicant demographics and university details
 
-2. [Cognito User Data.csv](https://github.com/shamilshamuh/Amazon_data_analysis/blob/main/Amazon_dataset.csv) – User profiles, demographics, and activity details
+2. [Cognito User Data.csv](https://github.com/shamilshamuh/End-to-End-Learner-Journey-Opportunity-Analytics-Dashboard/blob/main/Cognito_Raw2(in).csv) – User profiles, demographics, and activity details
 
-3. [Cohort Data.csv](https://github.com/shamilshamuh/Amazon_data_analysis/blob/main/Amazon_dataset.csv) – Cohort creation, timelines, and learner size tracking
+3. [Cohort Data.csv](https://github.com/shamilshamuh/End-to-End-Learner-Journey-Opportunity-Analytics-Dashboard/blob/main/CohortRaw(in).csv) – Cohort creation, timelines, and learner size tracking
 
-4. [Learner Opportunity Data.csv](https://github.com/shamilshamuh/Amazon_data_analysis/blob/main/Amazon_dataset.csv) – Learner applications, status, and assigned cohorts
+4. [Learner Opportunity Data.csv](https://github.com/shamilshamuh/End-to-End-Learner-Journey-Opportunity-Analytics-Dashboard/blob/main/LearnerOpportunity_Raw(in).csv) – Learner applications, status, and assigned cohorts
 
-5. [Marketing Campaign Data.csv](https://github.com/shamilshamuh/Amazon_data_analysis/blob/main/Amazon_dataset.csv) – Campaign reach, clicks, costs, and conversions
+5. [Marketing Campaign Data.csv](https://github.com/shamilshamuh/End-to-End-Learner-Journey-Opportunity-Analytics-Dashboard/blob/main/Marketing%20Campaign%20Data%20All%20Accounts%20(2023-2024)(Detail1).csv) – Campaign reach, clicks, costs, and conversions
 
-6. [Opportunity Data.csv] – Details of events, internships, and competitions
+6. [Opportunity Data.csv](https://github.com/shamilshamuh/End-to-End-Learner-Journey-Opportunity-Analytics-Dashboard/blob/main/Opportunity_Raw(in).csv) – Details of events, internships, and competitions
 
 # 🛠️ Tools & Technologies
 
@@ -28,7 +28,7 @@ This project was completed as part of my internship at Excelerate, where I worke
 
 - # Detailed Report
   
-1. Eda [Weak 1](https://github.com/shamilshamuh/Amazon_data_analysis/blob/main/Amazon_Sales_EDA_Report.pdf)
+1. EDA Report  [Weak 1](https://github.com/shamilshamuh/Amazon_data_analysis/blob/main/Amazon_Sales_EDA_Report.pdf)
 2. [Weak 2](https://github.com/shamilshamuh/Amazon_data_analysis/blob/main/Amazon_Sales_EDA_Report.pdf)
 3. [Weak 3](https://github.com/shamilshamuh/Amazon_data_analysis/blob/main/Amazon_Sales_EDA_Report.pdf)
 4. [Weak 1](https://github.com/shamilshamuh/Amazon_data_analysis/blob/main/Amazon_Sales_EDA_Report.pdf)
