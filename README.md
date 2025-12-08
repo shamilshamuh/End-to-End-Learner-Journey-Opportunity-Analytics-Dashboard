@@ -1,6 +1,6 @@
 # 📊 Global Learner Insights Dashboard
 # 📌 Overview
-This project was completed as part of my internship at Excelerate, where I worked as a Data Analyst Associate Intern. It was a team-based project in which we collaborated to analyze six datasets—five of which were interconnected, and one focusing on marketing data—to build an integrated dashboard. Every week, we submitted reports that were reviewed and evaluated by mentors, whose feedback helped us continuously improve the dashboard.
+This project was completed as part of my internship at Excelerate, where I worked as a Data Analyst Associate. It was a team-based project in which we collaborated to analyze six datasets—five of which were interconnected, and one focusing on marketing data—to build an integrated dashboard. Every week, we submitted reports that were reviewed and evaluated by mentors, whose feedback helped us continuously improve the dashboard.
 # 🗂️ Datasets Used
 
 1. [User Data.csv](https://github.com/shamilshamuh/End-to-End-Learner-Journey-Opportunity-Analytics-Dashboard/blob/main/User_data.csv) – Applicant demographics and university details
